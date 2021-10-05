@@ -11,8 +11,14 @@ const Works= () => (
     <>
         <Wrapper>
             <Content>
-                <h1>Work</h1>
-                <p>Selected web, mobile, video projects...</p>
+                <h1>Projects</h1>
+                <p>Project that I have worked on and are shown through my GitHub.</p>
+                  <ul>
+                  <li> <a href="https://pmhdz.github.io/PabloProject-Client/">Tic Tac Toe</a> </li>
+                  <li> <a href="https://pmhdz.github.io/carsales-client/">Car Sales</a> </li>
+                  <a href="https://agents-dev-team-project-3.github.io/lean2/">Lean2 E-COM</a> 
+                  <li><a href="https://pmhdz.github.io/tickets-react/">Pick It Ticket</a> </li>
+                </ul>
                 <WorksContainer>
                     <WorkItens/>
                 </WorksContainer>
@@ -43,7 +49,7 @@ const WorkItens = () => {
     return (
         <WorkItem>
           {data.allFile.edges.map((image, key) => (
-                <a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Pmhdz" target="_blank" rel="noopener noreferrer">
                     <WorkImage
                         key={key}
                         fluid={image.node.childImageSharp.fluid}
