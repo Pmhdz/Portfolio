@@ -12,7 +12,7 @@ const Works= () => (
         <Wrapper>
             <Content>
                 <h1>Projects</h1>
-                <p>Project that I have worked on and are shown through my GitHub.</p>
+                <p>Here are some projects that i have worked on so far. They are also visible on my GitHub.</p>
                   <ul>
                   <li> <a href="https://pmhdz.github.io/PabloProject-Client/">Tic Tac Toe</a> </li>
                   <li> <a href="https://pmhdz.github.io/carsales-client/">Car Sales</a> </li>

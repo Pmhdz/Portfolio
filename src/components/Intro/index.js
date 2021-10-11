@@ -14,9 +14,9 @@ const Intro = () => (
           <h1>Hello my name is  <b> <br/>Pablo Maldonado-Hernandez</b></h1>
           <h3>SOFTWARE ENGINEER - ATLANTA</h3>
         </header>
-        <p> I am a software engineer from Atlanta area. I am here looking to contribute with my coding experience for an application.</p>
+        <p> I am a Software Engineer in Atlanta, looking to contribute my ability to build and work on applications with a team of highly motivated individuals</p>
         <br></br>
-        <p> Coding is something that I enjoyed a lot since I was exposed in 8th grade. That satisfaction you get when your code able to work and show up makes it looks awesome! If I'm not coding, then I'm either playing video games, traveling, or around with my family.   </p>
+        <p> I was first exposed to coding in 8th grade and found interest in it ever since. I fell in love with the satisfaction you get at the end of all your hard work, nothing beats running through your whole application and it running smoothly. On my free time, I enjoy playing old and new video games, traveling, or spending time with my family.  </p>
         {/* <p>A free, fully responsive gatsby starter template designed by <a target="blank"  href="https://www.twitter.com/matheusquintaes">@matheusquintaes</a> </p>
         <p>You can learn more <a target="blank" href="https://www.gatsbyjs.org/docs/starters/"> about the starters here</a></p> */}
       </IntroContainer>
